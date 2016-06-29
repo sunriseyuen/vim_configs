@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='D:\360Yun\Tools\gvim\vim74'
+let g:netrw_dirhist_2='D:/360Yun/Tools/gvim'
+let g:netrw_dirhist_3='D:\360Yun\Tools\gvim\vim74'
+let g:netrw_dirhist_4='D:/360Yun/Tools/gvim'
